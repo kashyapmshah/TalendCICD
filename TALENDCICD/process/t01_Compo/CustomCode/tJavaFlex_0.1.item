@@ -29,7 +29,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:ZIdvhpnIJx7Z8F5w8TyS8l6jkkCZx5aT1KD4LV0j" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:qwTyS3CDsH9mp79rETjnTq2EDaXn7b5WJPlT0kA8" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -60,7 +60,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:wDHSpZ/OPF9B0/pn22ud3dMxS6mF49klq7e56z5u" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:72adVlR2/V3N8oyoTVBbUr85KqJC1fqAG4gtEc18" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>

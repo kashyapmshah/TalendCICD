@@ -33,7 +33,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:GAhEc8AKwVwTodd/F+SZkxYMeS50D6EWwFpKyjpl" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:5iy4kGFkNyP/ZELtEiutgi4kH9C79oGMHmfm4UsR" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -63,7 +63,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:lkoM6DqQm73cXXta6Li9Zj7hrBLFue8E7UZeYN2L" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GFfW9+1kNwFhFowGqaFsLp2yRJv+rLFEKXR+jo/h" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -95,7 +95,7 @@
     <elementParameter field="TEXT" name="PROXY_HOST" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="PROXY_PORT" value="&quot;23&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="PROXY_USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PROXY_PASS" value="enc:system.encryption.key.v1:9tDoVQhHPU6tdDnKk817467DDPi9aMZw2tOA52to" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PROXY_PASS" value="enc:system.encryption.key.v1:QdkyKFZQHp8rKzD8XIcg5WMRgx6NtP//i/1kYltP" contextMode="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
@@ -111,7 +111,7 @@
     <elementParameter field="TEXT" name="PROXY_HOST" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="PROXY_PORT" value="&quot;23&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="PROXY_USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PROXY_PASS" value="enc:system.encryption.key.v1:SqXMsru16/jbKW2dxMpiJb2+8QcL5jR1m66W1cCJ" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PROXY_PASS" value="enc:system.encryption.key.v1:pUYwnrNUHFBBy2tUdlkFw8RGo5ysMBRROcr+5ovo" contextMode="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>

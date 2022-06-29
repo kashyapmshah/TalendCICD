@@ -29,7 +29,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:FwAJ/NO6aNS7T0D2epRbvH6kUq0nuMRDc/uc1u9R" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:5gnQj1CF+oH8osZ5J/4e8SZ60WnMzOrCX1ieJlz+" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -60,7 +60,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:HYSDk+597kHJx1FY937elkUB/nEjTzM3+KvS37Yk" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:6hxHv5fES5Qy7Sp3eF/rvYqpnuoBAgp22icF+VP0" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -106,7 +106,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;mydb&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;login&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:R7xFfzWp6SV3EKYep5c3B/dJyozQC3wbnoiE0+O7yo4HWw==" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:38zwbtsQb7kOakfKTMAUWQmZzTXS8ecRmgriqIsEFb0ajA==" contextMode="false"/>
     <elementParameter field="CHECK" name="REPOSITORY_ALLOW_AUTO_SWITCH" value="false" contextMode="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="BUILT_IN" contextMode="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="" contextMode="false"/>

@@ -33,7 +33,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:gdWfQklP0A/NECBC3eonxItYMLLAEDk+3qLfF9oX"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:IU1rROuf8R21QBwIYljfR2QxadP3Y1cT6u0e7Go4"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;"/>
@@ -68,7 +68,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Adtr8YavwYfzwhVyGQLHaMww6CTQ0bITgAA12mgQ"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:cqgZBuYJlHEJtb9Wq1vEmxa41jhhxmNsf3Bhi36v"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;"/>
@@ -104,19 +104,19 @@
     <elementParameter field="TEXT" name="ENDPOINT" value="&quot;http://www.deeptraining.com/webservices/weather.asmx?WSDL&quot;"/>
     <elementParameter field="CHECK" name="NEED_AUTH" value="false"/>
     <elementParameter field="TEXT" name="AUTH_USERNAME" value="&quot;username&quot;"/>
-    <elementParameter field="PASSWORD" name="AUTH_PASSWORD" value="enc:system.encryption.key.v1:n+uKQ0Ts/VjkgUDc+h58eRDKpp91eDVnc7QoWNAZ+eVlYD4CmmI="/>
+    <elementParameter field="PASSWORD" name="AUTH_PASSWORD" value="enc:system.encryption.key.v1:i7KZSAJfDQLyHjHDnPXtE9tyR3k9SmNBd5VnOwW7+bWEZ+m7rGI="/>
     <elementParameter field="CHECK" name="WIN_AUTH" value="false"/>
     <elementParameter field="TEXT" name="DOMAIN" value="&quot;windows_domain&quot;"/>
     <elementParameter field="CHECK" name="UES_PROXY" value="false"/>
     <elementParameter field="TEXT" name="PROXY_HOST" value="&quot;61.163.92.4&quot;"/>
     <elementParameter field="TEXT" name="PROXY_PORT" value="&quot;8080&quot;"/>
     <elementParameter field="TEXT" name="PROXY_USERNAME" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PROXY_PASSWORD" value="enc:system.encryption.key.v1:gfzyg+MxNxpIpQwQGHHf7/rcUFJVsSgs6eiz8ccT"/>
+    <elementParameter field="PASSWORD" name="PROXY_PASSWORD" value="enc:system.encryption.key.v1:zVtyWlatyo48tFHw+Oim13Zv3mORfOA8S6NbSBXL"/>
     <elementParameter field="CHECK" name="NEED_SSL_TO_TRUSTSERVER" value="false"/>
     <elementParameter field="TEXT" name="SSL_TRUSTSERVER_TRUSTSTORE" value="&quot;C:/clientTrustStore.trustStore&quot;"/>
     <elementParameter field="TEXT" name="PASS" value="&quot;password&quot;"/>
     <elementParameter field="TEXT" name="SSL_TRUSTSERVER_KEYSTORE" value="&quot;C:/clientTrustStore.keyStore&quot;"/>
-    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_KEYSTOREPASSWORD" value="enc:system.encryption.key.v1:93aZ4y3EZOwcF87QzQiB/kzjU6RD/4zIyh2KJIwd42hURIVP8sQ="/>
+    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_KEYSTOREPASSWORD" value="enc:system.encryption.key.v1:2MS6Z8qc5qVcfStUvqBn8zD8Rq4ZfI7XZ4n8Oz1nRXyDf/KWri4="/>
     <elementParameter field="TEXT" name="METHOD" value="&quot;GetWeather&quot;"/>
     <elementParameter field="TEXT" name="TIMEOUT" value="20"/>
     <elementParameter field="TABLE" name="PARAMS">

@@ -29,7 +29,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:w8Sj0EyOlQ45bxTdmc+0M8gzGLBPuFfUqBUXk2P8" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:h05auJakdhHRAmpZyfhF8dyEIORPTkdjHAc3UDaE" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -60,7 +60,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:vOaj4cnrugkXBIwEUOf06/TFvvWDK4R/ll2SEisf" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GYL1WAc7KqYc+QHikwhSKC3284wop2OladoX28jI" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -99,9 +99,9 @@
     <elementParameter field="TEXT" name="PORT" value="22" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;user1&quot;" contextMode="false"/>
     <elementParameter field="CLOSED_LIST" name="AUTH_METHOD" value="PASSWORD" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:XxfpnHYkVaHbGkOq/oWOvSlUvOIY8oix673JpyY9lLaqC6V3b3o=" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:R3JdkY41b96tg/dkQR6TA3FQfd8KhD+SskAJu6dpZuyFFSm5/hE=" contextMode="false"/>
     <elementParameter field="FILE" name="PRIVATEKEY" value="&quot;/.ssh/id_dsa&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASSPHRASE" value="enc:system.encryption.key.v1:3p3eN0w9bef/NILVtNdTcHR8XPbMu3T4Y6ete94+RmBZ++sz" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASSPHRASE" value="enc:system.encryption.key.v1:bDxdVIzaaW8tsWIvYHwd5d+OS3NJ2dSNxbPgbuy/zIMgOfdT" contextMode="false"/>
     <elementParameter field="TEXT" name="COMMANDSEPARATOR" value="&quot;;&quot;" contextMode="false"/>
     <elementParameter field="TABLE" name="COMMANDS" contextMode="false">
       <elementValue elementRef="COMMAND" value="&quot;echo Talend Open Studio&quot;"/>

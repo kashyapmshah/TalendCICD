@@ -34,7 +34,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:sLVw88OmCajCpoIcrgu698KY1DJsYQxGhIHDrZZp" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:zurBauQC9MLlqg2jUKtrKepvad0+8ZThdgmwO8nY" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -64,7 +64,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:aphnPrGl1u37dQI632MNLPfVlnWDR7Yc8ZCOhDsV" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:mJ/BY4wYxp3SY4Wstt13E+728QnK3RJkMM4srLH1" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -156,7 +156,7 @@
     <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;demoproject&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;root&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:FU+XKHFWQQfEIlR/bhMNUCvcuyXAkUSipXUjPhmiBTOwYg==" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:QZkgBfUUTlVyzxJip7AEUBYm+avme34hdwwwmJy3UeURyQ==" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;employees&quot;" contextMode="false"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE" contextMode="false"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT" contextMode="false"/>
@@ -225,7 +225,7 @@
     <elementParameter field="TEXT" name="HOST" value="&quot;localhost&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;demoproject&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;root&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:PubOLDFyndawIiVM2Er3cM8LyLocaBeCHXxh5D5ArHm51Q==" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:wB4PtP9KyqkhK79nfdXzYuIB4u7PqlWI+g5fsMSRNhvifg==" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_ACCESS" value="&quot;D:/TOS-All-r8623-V2.3.0/workspace/in.mdb&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_FIREBIRD" value="&quot;D:/TOS-All-r8623-V2.3.0/workspace/in.FDB&quot;" contextMode="false"/>

@@ -29,7 +29,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:wVlZqEE2rTeEnSuWlncBshYzx+uK4KZwteC7vBhv" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:4qHFe3iIaF9+0+GMJj8e0KM8SlQ+39+Aml0iufJX" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -60,7 +60,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:4W/yCmZT9mBkgAu9ElfjRtfU1Rn7VUPYBjw64T7c" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:wS0n3ugzylkjuCGXJ0UY+ngyH6LVNfcQMrQQlbl4" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -98,7 +98,7 @@
     <elementParameter field="TEXT" name="URL" value="&quot;http://svn.gna.org/svn/phpwebgallery&quot;" contextMode="false"/>
     <elementParameter field="CHECK" name="NEED_AUTH" value="false" contextMode="false"/>
     <elementParameter field="TEXT" name="USERNAME" value="&quot;anonymous&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:KdS5b5JahTil1lNh9Jf7GYri8fCcOtRrU51VgpTpH1pURsDC5a3/" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:w+I5SvDGFLspph01OpZIbNn/SRH0uJ5CWJMUKEJVC9D+3G29zSnw" contextMode="false"/>
     <elementParameter field="TEXT" name="FROM_REV" value="1" contextMode="false"/>
     <elementParameter field="CHECK" name="SINGLE_REV" value="false" contextMode="false"/>
     <elementParameter field="TEXT" name="TO_REV" value="'HEAD'" contextMode="false"/>

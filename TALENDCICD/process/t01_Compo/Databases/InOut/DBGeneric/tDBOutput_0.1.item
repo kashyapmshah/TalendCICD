@@ -29,7 +29,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:dfFR+PpT7cbC47KrvMsDP/gHn9mdvO0wLVZL+gh1" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:3gwZQcW7VYUW/5lX9hT2Lj+S9PzlVb4PZpTDtceD" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -60,7 +60,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:cQNyLJXi8+C9YQEaouWsgxeyUyDgrV+gMwADFz+A" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:hAzUjQEmsE72f+whca5pKSY3Xqg797iK7ISpe4hb" contextMode="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -141,7 +141,7 @@
     <elementParameter field="CLOSED_LIST" name="TYPE" value="undef;sun.jdbc.odbc.JdbcOdbcDriver;MICROSOFT SQL SERVER (ODBC DRIVER);MSODBC" contextMode="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;databaseName&quot;" contextMode="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;root&quot;" contextMode="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:oreqptaSitqbb7rfDB3y/nHTnLTCE8g/bJi1zHJzqXOUkg==" contextMode="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:7IpBMaGvjP1VusNbGlnqQHbXV48ZRBM5vNe6dQjMrvlfRw==" contextMode="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;demotable&quot;" contextMode="false"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT" contextMode="false"/>
     <elementParameter field="CHECK" name="CLEAR_TABLE" value="false" contextMode="false"/>

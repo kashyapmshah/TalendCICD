@@ -51,7 +51,7 @@
     <elementParameter field="CHECK" name="INTEGRITY" value="false"/>
     <elementParameter field="CHECK" name="EXTRACTPATH" value="true"/>
     <elementParameter field="CHECK" name="CHECKPASSWORD" value="false"/>
-    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:nKQmHK+ufXKt1KxNSbb2yakZ4E4Kw8+OLpS809Wb"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" value="enc:system.encryption.key.v1:Iwrfje0ziJ4CJH7G5Ww4r4LEusmr59YcwHpbEQWq"/>
     <elementParameter field="CHECK" name="PRINTOUT" value="true"/>
     <elementParameter field="TEXT" name="LABEL" value="              &lt;b>__UNIQUE_NAME__&lt;/b>&lt;br>&lt;br>Unarchive the zip &quot;talend_files&quot; included&lt;br> in the Documentation on your harddisk."/>
     <elementParameter field="TEXT" name="HINT" value="__UNIQUE_NAME__"/>
