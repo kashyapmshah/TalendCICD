@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_zWTRMPtzEeyRnY_jOV8Bnw" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_zWTRMftzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Server" prompt="ELC_Landing_Server?" promptNeeded="false" type="id_String" value="mysql-ap-southeastasia-dev-cepa-06.mysql.database.azure.com"/>
+    <contextParameter xmi:id="_zWTRMvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_AdditionalParams" prompt="ELC_Landing_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true&amp;useSSL=true&amp;requireSSL=false&amp;autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8"/>
+    <contextParameter xmi:id="_zWTRM_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Database" prompt="ELC_Landing_Database?" promptNeeded="false" type="id_String" value="mdmlanding"/>
+    <contextParameter xmi:id="_zWTRNPtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Password" prompt="ELC_Landing_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:7NsCuNSS4h+pvRcma0gT+F52OxZp256xukUwIw/6Y4TK+hfgEgIlxzGuWcMPoMoz"/>
+    <contextParameter xmi:id="_zWTRNftzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Login" prompt="ELC_Landing_Login?" promptNeeded="false" type="id_String" value="mysqladmin@mysql-ap-southeastasia-dev-cepa-06"/>
+    <contextParameter xmi:id="_zWTRNvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Port" prompt="ELC_Landing_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_zWTRN_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Intermediate_Database" prompt="ELC_Intermediate_Database?" promptNeeded="false" type="id_String" value="mdmintermediate"/>
+    <contextParameter xmi:id="_zWTROPtzEeyRnY_jOV8Bnw" comment="" name="ELC_Staging_Database" prompt="ELC_Staging_Database?" promptNeeded="false" type="id_String" value="elc_china_dw_v6"/>
+    <contextParameter xmi:id="_zWTROftzEeyRnY_jOV8Bnw" comment="" name="ELC_Intermediate_Stage_DB" prompt="ELC_Intermediate_Stage_DB?" promptNeeded="false" type="id_String" value="intermediate_stage"/>
+    <contextParameter xmi:id="_zWTROvtzEeyRnY_jOV8Bnw" comment="" name="ELC_CBR_MASTER_DB" prompt="ELC_CBR_MASTER_DB?" promptNeeded="false" type="id_String" value="elc_cbr_china_v25_master"/>
+    <contextParameter xmi:id="_zWTRO_tzEeyRnY_jOV8Bnw" comment="" name="ELC_MDM_Database" prompt="ELC_MDM_Database?" promptNeeded="false" type="id_String" value="elcconsumermdm"/>
+    <contextParameter xmi:id="_zWTRPPtzEeyRnY_jOV8Bnw" comment="" name="ELC_AMC_Database" prompt="ELC_AMC_Database?" promptNeeded="false" type="id_String" value="amc"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_zWTRPftzEeyRnY_jOV8Bnw" confirmationNeeded="false" name="UAT">
+    <contextParameter xmi:id="_zWTRPvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Server" prompt="ELC_Landing_Server?" promptNeeded="false" type="id_String" value="mysql-ap-southeastasia-uat-cepa-data-06.mysql.database.azure.com"/>
+    <contextParameter xmi:id="_zWTRP_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_AdditionalParams" prompt="ELC_Landing_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true&amp;useSSL=true&amp;requireSSL=false&amp;autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8"/>
+    <contextParameter xmi:id="_zWTRQPtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Database" prompt="ELC_Landing_Database?" promptNeeded="false" type="id_String" value="mdmlanding"/>
+    <contextParameter xmi:id="_zWTRQftzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Password" prompt="ELC_Landing_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:hIgwHDieuE2UbhcY89bgezGvLLIQs1h8o/Ymi6AsLz/zuI6lRWSKS8PgQPHZ+JNh"/>
+    <contextParameter xmi:id="_zWTRQvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Login" prompt="ELC_Landing_Login?" promptNeeded="false" type="id_String" value="mysqladmin@mysql-ap-southeastasia-uat-cepa-data-06"/>
+    <contextParameter xmi:id="_zWTRQ_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Port" prompt="ELC_Landing_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_zWTRRPtzEeyRnY_jOV8Bnw" comment="" name="ELC_Intermediate_Database" prompt="ELC_Intermediate_Database?" promptNeeded="false" type="id_String" value="mdmintermediate"/>
+    <contextParameter xmi:id="_zWTRRftzEeyRnY_jOV8Bnw" comment="" name="ELC_Staging_Database" prompt="ELC_Staging_Database?" promptNeeded="false" type="id_String" value="elc_china_dw_v6"/>
+    <contextParameter xmi:id="_zWTRRvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Intermediate_Stage_DB" prompt="ELC_Intermediate_Stage_DB?" promptNeeded="false" type="id_String" value="intermediate_stage"/>
+    <contextParameter xmi:id="_zWTRR_tzEeyRnY_jOV8Bnw" comment="" name="ELC_CBR_MASTER_DB" prompt="ELC_CBR_MASTER_DB?" promptNeeded="false" type="id_String" value="elc_cbr_china_v25_master"/>
+    <contextParameter xmi:id="_zWTRSPtzEeyRnY_jOV8Bnw" comment="" name="ELC_MDM_Database" prompt="ELC_MDM_Database?" promptNeeded="false" type="id_String" value="elcconsumermdm"/>
+    <contextParameter xmi:id="_zWTRSftzEeyRnY_jOV8Bnw" comment="" name="ELC_AMC_Database" prompt="ELC_AMC_Database?" promptNeeded="false" type="id_String" value="amc"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_zWTRSvtzEeyRnY_jOV8Bnw" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_zWTRS_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Server" prompt="ELC_Landing_Server?" promptNeeded="false" type="id_String" value="mysql-ap-southeastasia-prod-cepa-talend-02.mysql.database.azure.com"/>
+    <contextParameter xmi:id="_zWTRTPtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_AdditionalParams" prompt="ELC_Landing_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true&amp;useSSL=true&amp;requireSSL=false&amp;autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8"/>
+    <contextParameter xmi:id="_zWTRTftzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Database" prompt="ELC_Landing_Database?" promptNeeded="false" type="id_String" value="mdmlanding"/>
+    <contextParameter xmi:id="_zWTRTvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Password" prompt="ELC_Landing_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:+7fQKxVlmGuBq6Vs1MFYRa8Clqn5ROVf6Zbx9nKG+nOfFvpxyURQ2LAozTXKD9rY"/>
+    <contextParameter xmi:id="_zWTRT_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Login" prompt="ELC_Landing_Login?" promptNeeded="false" type="id_String" value="talend_mdm_apac_prod@mysql-ap-southeastasia-prod-cepa-talend-02"/>
+    <contextParameter xmi:id="_zWTRUPtzEeyRnY_jOV8Bnw" comment="" name="ELC_Landing_Port" prompt="ELC_Landing_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_zWTRUftzEeyRnY_jOV8Bnw" comment="" name="ELC_Intermediate_Database" prompt="ELC_Intermediate_Database?" promptNeeded="false" type="id_String" value="mdmintermediate"/>
+    <contextParameter xmi:id="_zWTRUvtzEeyRnY_jOV8Bnw" comment="" name="ELC_Staging_Database" prompt="ELC_Staging_Database?" promptNeeded="false" type="id_String" value="elc_china_dw_v6"/>
+    <contextParameter xmi:id="_zWTRU_tzEeyRnY_jOV8Bnw" comment="" name="ELC_Intermediate_Stage_DB" prompt="ELC_Intermediate_Stage_DB?" promptNeeded="false" type="id_String" value="intermediate_stage"/>
+    <contextParameter xmi:id="_zWTRVPtzEeyRnY_jOV8Bnw" comment="" name="ELC_CBR_MASTER_DB" prompt="ELC_CBR_MASTER_DB?" promptNeeded="false" type="id_String" value="elc_cbr_china_v25_master"/>
+    <contextParameter xmi:id="_zWTRVftzEeyRnY_jOV8Bnw" comment="" name="ELC_MDM_Database" prompt="ELC_MDM_Database?" promptNeeded="false" type="id_String" value="elcconsumermdm"/>
+    <contextParameter xmi:id="_zWTRVvtzEeyRnY_jOV8Bnw" comment="" name="ELC_AMC_Database" prompt="ELC_AMC_Database?" promptNeeded="false" type="id_String" value="amc"/>
+  </talendfile:ContextType>
+</xmi:XMI>

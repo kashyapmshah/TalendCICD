@@ -181,6 +181,8 @@
     <module>jobs/process/t01_Compo/Misc/tflowtoiterate_0.1</module>
     <module>jobs/process/t01_Compo/Misc/tserveralive_0.1</module>
     <module>jobs/process/t01_Compo/XML/txslt_0.1</module>
+    <module>jobs/joblets/initializecommoncontext_0.1</module>
+    <module>jobs/process/ELC_ConsumerMDM/F04_Match/consumer_matching_tswoosh_f08_associativegrouping_v3_1_0.2</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
